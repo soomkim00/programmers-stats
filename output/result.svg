@@ -38,13 +38,13 @@
     <text x="120" y="90" class="desc" text-anchor="start">1</text>
     <text x="200" y="90" class="desc-2" text-anchor="start">level</text>
     <text x="90" y="120" class="info-label" text-anchor="end">Rate</text>
-    <text x="120" y="120" class="desc" text-anchor="start">1,143</text>
+    <text x="120" y="120" class="desc" text-anchor="start">1,154</text>
     <text x="200" y="120" class="desc-2" text-anchor="start">pt</text>
     <text x="90" y="150" class="info-label" text-anchor="end">Solved</text>
-    <text x="120" y="150" class="desc" text-anchor="start">68</text>
+    <text x="120" y="150" class="desc" text-anchor="start">75</text>
     <text x="200" y="150" class="desc-2" text-anchor="start">problems</text>
     <text x="90" y="180" class="info-label" text-anchor="end">Rank</text>
-    <text x="120" y="180" class="desc" text-anchor="start">128,731</text>
-    <text x="200" y="180" class="desc-2" text-anchor="start">st</text>
+    <text x="120" y="180" class="desc" text-anchor="start">122,694</text>
+    <text x="200" y="180" class="desc-2" text-anchor="start">th</text>
   </g>
 </svg> 
